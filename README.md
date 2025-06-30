@@ -2,7 +2,7 @@
 
 **Project Type:** End-to-End Business Analytics  
 **Tech Stack:** SQL · Python · Power BI  
-**Duration:** 3 Weeks  
+**Duration:** 2 Weeks  
 
 ---
 
